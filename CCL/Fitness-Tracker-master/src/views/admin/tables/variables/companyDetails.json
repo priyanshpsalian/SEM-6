@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Karan",
+        "email": "karan@gmail.com",
+        "date": "24.Jan.2021",
+        "spending": 30
+    },
+    {
+        "name": "Arjun",
+        "email": "karan@gmail.com",
+        "date": "30.Dec.2021",
+        "spending": 30
+    },
+    {
+        "name": "Priyansh",
+        "email": "karan@gmail.com",
+        "date": "20.May.2021",
+        "spending": 30
+    },
+    {
+        "name": "Krish",
+        "email": "Approved",
+        "date": "12.Jul.2021",
+        "spending": 30
+    },
+    {
+        "name": "Harsh",
+        "email": "Approved",
+        "date": "12.Jul.2021",
+        "spending": 30
+    },
+    {
+        "name": "Idris",
+        "email": "Approved",
+        "date": "12.Jul.2021",
+        "spending": 30
+    },
+    {
+        "name": "Jash",
+        "email": "Approved",
+        "date": "12.Jul.2021",
+        "spending": 30
+    }
+]

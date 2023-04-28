@@ -1,0 +1,33 @@
+[
+    {
+      "name": ["GET50", false],
+      "quantity": 2458,
+      "date": "Apr 26, 2023",
+      "progress": 75.5
+    },
+    {
+      "name": ["BUY1GET2", true],
+      "quantity": 1485,
+      "date": "Jul 20, 2023",
+      "progress": 35.4
+    },
+    {
+      "name": ["FRIDAY100", true],
+      "quantity": 1024,
+      "date": "Sep 30, 2023",
+      "progress": 25
+    },
+    {
+      "name": ["CASHBACK20", true],
+      "quantity": 858,
+      "date": "Oct 24, 2023",
+      "progress": 67
+    },
+    {
+      "name": ["HOLI500", false],
+      "quantity": 258,
+      "date": "Nov 29, 2023",
+      "progress": 100
+    }
+]
+  

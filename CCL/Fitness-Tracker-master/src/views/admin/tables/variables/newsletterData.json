@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Idris",
+      "email": "dabime@eim.ae",
+      "type": "Monthly",
+      "date": "24.Jan.2023"
+    },
+    {
+      "name": "Shivam Trivedi",
+      "email": "country@eim.ae",
+      "type": "Promotional",
+      "date": "30.Dec.2022"
+    },
+    {
+      "name": "Harsh",
+      "email": "la1dollarrentacar@hotmail.com",
+      "type": "Weekly",
+      "date": "20.May.2022"
+    },
+    {
+      "name": "Sold Center",
+      "email": "sld_center@hotmail.com",
+      "type": "Promotional",
+      "date": "12.Jul.2020"
+    },
+    {
+        "name": "Dabi Me",
+        "email": "dabime@eim.ae",
+        "type": "Monthly",
+        "date": "24.Jan.2021"
+      },
+      {
+        "name": "Priyansh",
+        "email": "county@eim.ae",
+        "type": "Promotional",
+        "date": "30.Dec.2022"
+      },
+      {
+        "name": "Doller Center",
+        "email": "dollarrent@hotmail.com",
+        "type": "Weekly",
+        "date": "20.May.2022"
+      },
+      {
+        "name": "Krish",
+        "email": "rishcenter@hotmail.com",
+        "type": "Promotional",
+        "date": "12.Jul.2022"
+      }
+  ]
+  

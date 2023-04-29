@@ -1,0 +1,6 @@
+In addition to these👆🏻, BFS and DFS for AI practical exams.
+From this list 👆🏻, you all can prepare 1, 6,7 from design/theory point of view.
+
+All others including BFS,DFS will be program implementation 
+
+In exp 5, all 3 options have to be prepared, any one can be given.

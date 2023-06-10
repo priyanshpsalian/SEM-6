@@ -1,6 +1,6 @@
 # Semester 6 Work and Study Materials Repository
 
-This GitHub repository contains all the work and study materials that I completed during my fifth semester.
+This GitHub repository contains all the work and study materials that I completed during my sixth semester.
 
 ## Description
 

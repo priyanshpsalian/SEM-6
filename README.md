@@ -30,4 +30,4 @@ To use this repository, you can browse through the various folders and files to 
 
 ## Acknowledgements
 
-I would like to thank my professors and classmates for their support and collaboration throughout the fifth semester, and for inspiring me to create this repository to document and share my academic journey.
+I would like to thank my professors and classmates for their support and collaboration throughout the sixth semester, and for inspiring me to create this repository to document and share my academic journey.
